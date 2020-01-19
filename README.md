@@ -3,6 +3,7 @@ Download ngrok from https://ngrok.com/download
 
 On command prompt, install python packages for flask, flask_ngrok, playsound, pathlib
   $ pip3 install <pkg name>
+
 Preferably, use a virtual environment so that python versions don't clash. Also, make sure that the python version is 3
   $ python3 -m venv <virtual env name>
   This is a good tutorial for setting this up: https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world
