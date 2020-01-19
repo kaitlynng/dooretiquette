@@ -18,3 +18,7 @@ Then, navigate to your directory containing pushpull.py on command prompt
   $ py pushpull.py
   
   This should run a ngrok server. Website should load on localhost:5000
+ 
+Copy server link from command prompt to App.js (at the 'fetch('...')' line) 
+
+Finally, load Expo app onto phone and have fun! :D
